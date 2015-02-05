@@ -1,3 +1,1 @@
-# lixioalong
-python
-i love python
+抓取贴吧文章  只看楼主效果 
